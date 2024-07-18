@@ -1,6 +1,6 @@
 ReplyMate
 
-Description: ReplyMate is a Node.js application that automates the process of responding to unreplied emails during a specified period, such as a vacation. It leverages the Gmail API to interact with your Gmail account and perform actions like sending automated replies and labeling emails related to your vacation.
+Description:  ReplyMate is a Node.js application designed to automate the process of responding to unreplied emails during specified periods, such as vacations. Leveraging the Gmail API, ReplyMate interacts seamlessly with your Gmail account to send automated replies and label emails related to your absence. Whether you're on vacation or temporarily unavailable, ReplyMate ensures that your inbox is managed efficiently and that your contacts receive timely responses. With its easy setup and reliable performance, ReplyMate is your go-to solution for maintaining professional email communication even when you're away.
 
 Table of Contents
 1. Features
